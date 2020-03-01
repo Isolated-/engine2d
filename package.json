@@ -1,6 +1,6 @@
 {
   "name": "engine2d",
-  "version": "0.1.0-dev.0",
+  "version": "0.1.0-dev.1",
   "description": "A simple 2d game engine written in TypeScript",
   "main": "dist/engine2d.js",
   "license": "MIT",
